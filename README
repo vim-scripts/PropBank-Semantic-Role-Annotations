@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2058
+
+Syntax highlighting for PropBank Semantic Role Annotations. 
+[http://www.cs.rochester.edu/~gildea/PropBank/Sort/]
+
+The highlighting patterns are based on the following css:
+[http://www.cs.rochester.edu/~gildea/pb_style.css]
+
+Screenshot: [http://wuzhaojun.googlepages.com/propbank.png]
